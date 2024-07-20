@@ -1,6 +1,4 @@
-# Project Name
-
-> Outline a brief description of your project.
+# Project Name : Lending Club Case Study
 
 ## Table of Contents
 
@@ -12,6 +10,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
+
+### Project Information
+
+This project is a case study to use EDA to understand how consumer attributes and loan attributes influence the tendency of default. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 - Provide general information about your project here.
 - What is the background of your project?
