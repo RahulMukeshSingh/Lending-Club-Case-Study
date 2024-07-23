@@ -38,18 +38,18 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
     * Remove post-approval columns not useful for pre-approval risk assessment
     * Removing ongoing loans
     * Taking care of remaining columns with empty values
-        * 1. The number of months since the last public record and borrower's last delinquency
-        * 2. Employment length
-        * 3. Number of public record bankruptcies
-        * 4. Revolving line utilization rate
+        * The number of months since the last public record and borrower's last delinquency
+        * Employment length
+        * Number of public record bankruptcies
+        * Revolving line utilization rate
     * Handling Incorrect Data Types 
         * Checking Data Types
-        * 1. Term (Convert to Numerical)
-        * 2. Interest rate (Convert to Numerical)
-        * 3. Employment Length (Convert to Numerical)
-        * 4. Revolving line utilization rate (Convert to Numerical)
-        * 5. Loan issue date (Convert to Date)
-        * 6. Earliest reported credit line (Convert to Date)
+        * Term (Convert to Numerical)
+        * Interest rate (Convert to Numerical)
+        * Employment Length (Convert to Numerical)
+        * Revolving line utilization rate (Convert to Numerical)
+        * Loan issue date (Convert to Date)
+        * Earliest reported credit line (Convert to Date)
     * Check and remove any duplicate rows
     * Outlier Handling
         * Finding outlier columns
@@ -57,43 +57,43 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
         * Remove outliers above threshold
         * Check distribution after removing outliers
     * Sanity Checks
-        * 1. Range Check for Numerical and Date Columns
-        * 2. Earliest Credit Line Date Cannot Be More Than Issue Date
-        * 3. Loan Amount matches the calculation of Term, Installment and Interest Rate
-        * 4. Any columns with string value as NaN, None or Null
+        * Range Check for Numerical and Date Columns
+        * Earliest Credit Line Date Cannot Be More Than Issue Date
+        * Loan Amount matches the calculation of Term, Installment and Interest Rate
+        * Any columns with string value as NaN, None or Null
     * Shape of dataframe after data cleaning and manipulation
 * Analysis
     * Derived Metrics
-        * 1. Annual Income (Data-driven Derived Metrics)
-        * 2. Loan Issue Date (Type driven Derived Metrics)
-        * 3. Earliest credit line (Business driven Derived Metrics)
-        * 4. Loan Amount (Data and Business driven Derived Metrics) 
-        * 5. Installments (Business driven Derived Metrics)
-        * 6. DTI (Data driven Derived Metrics) 
-        * 7. Revolving utilization rate (Data driven Derived Metrics)
+        * Annual Income (Data-driven Derived Metrics)
+        * Loan Issue Date (Type driven Derived Metrics)
+        * Earliest credit line (Business driven Derived Metrics)
+        * Loan Amount (Data and Business driven Derived Metrics) 
+        * Installments (Business driven Derived Metrics)
+        * DTI (Data driven Derived Metrics) 
+        * Revolving utilization rate (Data driven Derived Metrics)
 * Analysis of Target Variable
 * Visual Analysis (Univariate, Segmented Univariate, Bivariate, Multivariate Analysis)
     * Common Functions for plotting
     * Correlation between each numerical variable against Loan Status (Target Variable)
-    * 1. Loan Amount
-    * 2. Annual Income
-    * 3. Loan Amount to Income Ratio
-    * 4. Installment
-    * 5. Monthly Installment as percent of Income
-    * 6. Installment to loan ratio
-    * 7. DTI
-    * 8. Term
-    * 9. Revolving Utilization
-    * 10. Interest Rate
-    * 11. Issue Date
-    * 12. Earliest Credit Line
-    * 13. Grade and Sub Grade
-    * 14. Verification Status
-    * 15. Purpose
-    * 16. Employment Length
-    * 17. Home Ownership
-    * 18. State (Address)
-    * 19. Remaining columns/variables:
+    * Loan Amount
+    * Annual Income
+    * Loan Amount to Income Ratio
+    * Installment
+    * Monthly Installment as percent of Income
+    * Installment to loan ratio
+    * DTI
+    * Term
+    * Revolving Utilization
+    * Interest Rate
+    * Issue Date
+    * Earliest Credit Line
+    * Grade and Sub Grade
+    * Verification Status
+    * Purpose
+    * Employment Length
+    * Home Ownership
+    * State (Address)
+    * Remaining columns/variables:
         * Inquiries in the last 6 months (inq_last_6mths)
         * The number of open accounts (open_acc)
         * Revolving Balance (revol_bal)
