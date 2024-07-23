@@ -94,13 +94,13 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
     * 17. Home Ownership
     * 18. State (Address)
     * 19. Remaining columns/variables:
-        * a. Inquiries in the last 6 months (inq_last_6mths)
-        * b. The number of open accounts (open_acc)
-        * c. Revolving Balance (revol_bal)
-        * d. The total number of credit line accounts (total_acc)
-        * e. Number of 30+ days past-due incidences for the past 2 years (delinq_2yrs)
-        * f. Number of derogatory public records (pub_rec)
-        * g. Number of public record bankruptcies (pub_rec_bankruptcies)
+        * Inquiries in the last 6 months (inq_last_6mths)
+        * The number of open accounts (open_acc)
+        * Revolving Balance (revol_bal)
+        * The total number of credit line accounts (total_acc)
+        * Number of 30+ days past-due incidences for the past 2 years (delinq_2yrs)
+        * Number of derogatory public records (pub_rec)
+        * Number of public record bankruptcies (pub_rec_bankruptcies)
 * Summary of Key Conclusions
 * Next Business Steps
 
