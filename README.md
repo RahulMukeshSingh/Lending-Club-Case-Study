@@ -67,7 +67,7 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
         * 1. Annual Income (Data-driven Derived Metrics)
         * 2. Loan Issue Date (Type driven Derived Metrics)
         * 3. Earliest credit line (Business driven Derived Metrics)
-        * 4.Loan Amount (Data and Business driven Derived Metrics) 
+        * 4. Loan Amount (Data and Business driven Derived Metrics) 
         * 5. Installments (Business driven Derived Metrics)
         * 6. DTI (Data driven Derived Metrics) 
         * 7. Revolving utilization rate (Data driven Derived Metrics)
