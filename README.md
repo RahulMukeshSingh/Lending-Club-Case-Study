@@ -25,8 +25,8 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
 
 ## Approach
 
-- * Data Understanding
-- * Initial Steps
+* Data Understanding
+* Initial Steps
     * Import Required Libraries and Configure Default Settings
     * Read the dataset
 * Data Cleaning and Manipulation
@@ -106,10 +106,10 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
 
 ## Technologies Used
 
-- Python - 3.12.3
+- Python - version 3.12.3
 - Pandas - version 2.2.2
 - Numpy - version 1.26.4
-- Matplotlib - 3.7.1
+- Matplotlib - version 3.7.1
 - Seaborn - version 0.13.2
 
 ## Key Conclusions Summary
@@ -134,8 +134,6 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
 
 
 ## Acknowledgements
-
-Give credit here.
 
 - This project was inspired by IIITB and Upgrad's Lecture on EDA
 - References:
