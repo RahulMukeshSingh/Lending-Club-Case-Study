@@ -93,7 +93,7 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
     * 16. Employment Length
     * 17. Home Ownership
     * 18. State (Address)
-    * 19. Remaining columns/variables:<br>
+    * 19. Remaining columns/variables:
         *     a. Inquiries in the last 6 months (inq_last_6mths)
         *     b. The number of open accounts (open_acc)
         *     c. Revolving Balance (revol_bal)
