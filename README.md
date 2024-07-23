@@ -143,9 +143,3 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
 
 - [Rahul Singh](https://github.com/RahulMukeshSingh)
 - [Raja Kalavala](https://github.com/RajaKalavala)
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
