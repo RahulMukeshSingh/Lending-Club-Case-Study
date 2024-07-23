@@ -122,6 +122,7 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
 - **Credit History:** Longer credit histories are associated with a higher likelihood of fully paying loans. Borrowers with more inquiries in the last 6 months are associated with a higher chance of defaulting.
 - **Interest Rates:** Higher interest rates (above 10%) are linked to higher default rates.
 - **Debt-to-Income (DTI) Ratio:** Higher DTI ratios are correlated with higher default rates. Lower DTI ratios are associated with a higher likelihood of fully paying the loan.
+- **Public Record**: Consumers with no public records have better repayment history.
 
 ## Next Business Steps
 
