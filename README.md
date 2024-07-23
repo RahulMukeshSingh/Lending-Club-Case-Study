@@ -7,7 +7,7 @@
 - [Approach](#approach)
 - [Technologies Used](#technologies-used)
 - [Key Conclusions](#key-conclusions-summary)
-- [Next Business Steps](next-business-steps)
+- [Next Business Steps](#next-business-steps)
 - [Acknowledgements](#acknowledgements)
 - [Team](#team)
 
@@ -94,13 +94,13 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
     * 17. Home Ownership
     * 18. State (Address)
     * 19. Remaining columns/variables:<br>
-        *     a. Inquiries in the last 6 months <b>(inq_last_6mths)</b><br>
-        *     b. The number of open accounts <b>(open_acc)</b><br>
-        *     c. Revolving Balance <b>(revol_bal)</b><br>
-        *     d. The total number of credit line accounts <b>(total_acc)</b><br>
-        *     e. Number of 30+ days past-due incidences for the past 2 years <b>(delinq_2yrs)</b><br>
-        *     f. Number of derogatory public records <b>(pub_rec)</b><br>
-        *     g. Number of public record bankruptcies <b>(pub_rec_bankruptcies)</b><br>
+        *     a. Inquiries in the last 6 months (inq_last_6mths)
+        *     b. The number of open accounts (open_acc)
+        *     c. Revolving Balance (revol_bal)
+        *     d. The total number of credit line accounts (total_acc)
+        *     e. Number of 30+ days past-due incidences for the past 2 years (delinq_2yrs)
+        *     f. Number of derogatory public records (pub_rec)
+        *     g. Number of public record bankruptcies (pub_rec_bankruptcies)
 * Summary of Key Conclusions
 * Next Business Steps
 
@@ -123,7 +123,7 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
 - **Interest Rates:** Higher interest rates (above 10%) are linked to higher default rates.
 - **Debt-to-Income (DTI) Ratio:** Higher DTI ratios are correlated with higher default rates. Lower DTI ratios are associated with a higher likelihood of fully paying the loan.
 
-## Next Business Steps:
+## Next Business Steps
 
 - Consider capping loan amounts for borrowers with lower incomes to reduce the risk of default.
 - Set higher interest rates or stricter approval criteria for high risk borrowers (e.g., those with high revolving utilization and low incomes)
