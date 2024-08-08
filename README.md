@@ -135,7 +135,7 @@ The Goal is to use Exploratory Data Analysis (EDA) to understand how consumer at
 
 ## Acknowledgements
 
-- This project was inspired by IIITB and Upgrad's Lecture on EDA
+- This project was inspired by IIITB Lecture on EDA
 - References:
   - [Seaborn Documentation](https://seaborn.pydata.org/)
 
